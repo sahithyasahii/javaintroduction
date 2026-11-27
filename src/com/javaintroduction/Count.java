@@ -13,7 +13,7 @@ static int x=0;//static variable can be accessed directly ,class name ,ORV
 		Count d=new Count();
 		Count e=new Count();
 		
-		System.out.println("count is :"+ Count.x);
+		System.out.println("count is :"+ x);
 	}
 
 }
